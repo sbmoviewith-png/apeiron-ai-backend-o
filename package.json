@@ -1,0 +1,14 @@
+{
+  "name": "apeiron-ai-backend-o",
+  "version": "1.0.0",
+  "description": "APEIRON AI Backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "cors": "latest",
+    "groq-sdk": "latest"
+  }
+}
